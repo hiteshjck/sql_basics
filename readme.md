@@ -1,1 +1,1 @@
-SQL Basics
+SQL Basics with MySQL
