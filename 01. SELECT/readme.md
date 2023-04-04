@@ -16,3 +16,9 @@ Select * From table
   <td>99998888</td>
 </tr>
 </table>
+<br/>
+
+<pre>
+Try this command here!
+<a href="https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all" name="link" />
+</pre>
