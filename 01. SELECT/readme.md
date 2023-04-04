@@ -5,8 +5,8 @@ eg: Select * From table
 <br/>
 <table>
 <tr>
-  <td>ID</td>
+  <th>ID</th>
   <th>username</th>
-  <td><th>phone_number</th></td>
+  <th>phone_number</th>
 </tr>
 </table>
