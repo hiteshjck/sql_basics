@@ -1,6 +1,7 @@
 <pre>
 The SELECT statement allows us to retrieve data from single or multiple tables on the database.
-eg: Select * From table
+
+Select * From table
 </pre>
 <br/>
 <table>
