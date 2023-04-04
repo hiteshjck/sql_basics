@@ -1,10 +1,10 @@
 <h1>SQL basics</h1>
     
-<p>
-What is database?
+<pre>
+What is database? 
 A database is an organized collection of data, generally stored and accessed electronically from a computer system.
 
-What is database management system (DBMS)?
+What is database management system (DBMS)? 
 Database Management System is a software for storing and retrievin data while considering appropriate security measures.
 
 What is relational database management system (RDBMS)?
@@ -24,4 +24,4 @@ breakdown of the above statement:-
 SELECT: this keyword indicates that we want to select some data from the database
 username: this is the column name we want to select.
 FROM users: we specify the table that we want to select the data from using the FROM keyword.
-</p>
+</pre>
