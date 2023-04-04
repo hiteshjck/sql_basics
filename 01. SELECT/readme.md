@@ -3,7 +3,7 @@ The SELECT statement allows us to retrieve data from single or multiple tables o
 eg: Select * From table
 </p>
 <br/>
-<table border="1">
+<table>
 <tr>
   <td><th>ID</th></td>
   <td><th>username</th></td>
