@@ -19,6 +19,5 @@ Select * From table
 <br/>
 
 <pre>
-Try this command here!
-<a href="https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all">link</a>
+Try this command <a href="https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all">here</a>!
 </pre>
