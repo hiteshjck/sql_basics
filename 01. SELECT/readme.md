@@ -4,8 +4,8 @@ The SELECT statement allows us to retrieve data from single or multiple tables o
 
 <h1>Query</h1>
 Select * From table
-<h1>Sample</h1>
 </pre>
+<h1>Sample</h1>
 <br/>
 <table>
 <tr>
