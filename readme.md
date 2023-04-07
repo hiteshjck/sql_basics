@@ -33,7 +33,7 @@ FROM users: we specify the table that we want to select the data from using the 
 
 <h5>SQL order of excecution</h5>
 
-<img src="https://daks2k3a4ib2z.cloudfront.net/589e47d231ee752554896f1f/59322015595b4e56313a0409_Screen%20Shot%202017-06-02%20at%207.32.53%20PM.png" height=300 width=300/>
+<img src="https://daks2k3a4ib2z.cloudfront.net/589e47d231ee752554896f1f/59322015595b4e56313a0409_Screen%20Shot%202017-06-02%20at%207.32.53%20PM.png" height=300 width=500/>
 
 References <br/>
 <li><a href="https://github.com/bobbyiliev/introduction-to-sql">ebook-SQL basics</a></li>
