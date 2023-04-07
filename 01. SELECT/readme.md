@@ -1,7 +1,10 @@
 <pre>
+<h1>Description</h1>
 The SELECT statement allows us to retrieve data from single or multiple tables on the database.
 
+<h1>Query</h1>
 Select * From table
+<h1>Sample</h1>
 </pre>
 <br/>
 <table>
