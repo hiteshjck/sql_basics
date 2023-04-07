@@ -31,6 +31,8 @@ username: this is the column name we want to select.
 FROM users: we specify the table that we want to select the data from using the FROM keyword.
 </pre>
 
+<img src="https://daks2k3a4ib2z.cloudfront.net/589e47d231ee752554896f1f/59322015595b4e56313a0409_Screen%20Shot%202017-06-02%20at%207.32.53%20PM.png"/>
+
 References <br/>
 <li><a href="https://github.com/bobbyiliev/introduction-to-sql">ebook-SQL basics</a></li>
 <li><a href="https://www.w3schools.com/sql">W3schools</a></li>
