@@ -1,5 +1,5 @@
 <pre>
-<h1>Decription</h1>
+<h1>Description</h1>
 The ORDER BY command is used to sort the result set in ascending or descending order.
 
 The ORDER BY command sorts the result set in ascending order by default. To sort the records in descending order, 
