@@ -2,6 +2,7 @@
 <h1>Description</h1>
 The SELECT statement allows us to retrieve data from single or multiple tables on the database.
 
+The FROM command is used to specify which table to select or delete data from.
 <h1>Query</h1>
 Select * From table
 </pre>
